@@ -11,6 +11,7 @@
 		<input type="text" name="userID">
 		<input type="password" name="userPassword">
 		<input type="submit" value="회원가입">
+		<input type="text" value="커밋왜안되지">
 	</form>
 </body>
 </html>
